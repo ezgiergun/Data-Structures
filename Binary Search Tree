@@ -1,0 +1,15 @@
+
+K = [7,5,1,8,3,6,0,9,4,2]
+
+  Root=Number 7
+  Second element is number 5, it goes to the Root's left side.
+  Third element is number 1, it goes to the Root's left side, and 5's left side.
+  Forth element is number 8, it goes to the Root's right side.
+  Fifth is number 3, it goes to the Root's left, 5's left, 1's right side.
+  Sixth is number 6, it goes root's left, 5's left, 1's right, 3's right side.
+  Seventh is number 0, it goes to the root's left, 5's left, 1's right, 3's right, 6's left side.
+  Eighth is number 9, it goes to the root's right, 8's right side.
+  Nineth is number 4, it goest to the root's left, 5's left, 1's right, 3's right, 6's left, 0's right side.
+  Tenth is number 2, it goest to the root's left, 5's left, 1's right, 3's right, 6's left, 0's right, 4's left side.
+  
+  
