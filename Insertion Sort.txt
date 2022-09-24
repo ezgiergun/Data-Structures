@@ -1,4 +1,4 @@
-
+1)
 Array sorted with Insertion Sort in ascending order:
 
 M = [22,27,16,2,18,6]
@@ -13,3 +13,13 @@ M = [22,27,16,2,18,6]
  Best Case suggest the number is the first number of the list: n --> O(n)
  
  After an ordered list creates, searching for number 18 would be covered in the average case.
+
+2)
+Array sorted with merge sort in ascendin order:
+First 4 steps:
+
+D = [7,3,5,8,2,9,4,15,6]
+--> [2,3,5,8,7,9,4,15,6]
+--> [2,3,5,8,7,9,4,15,6]
+--> [2,3,4,8,7,9,5,15,6]
+--> [2,3,4,5,7,9,8,15,6]
