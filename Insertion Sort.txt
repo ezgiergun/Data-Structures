@@ -1,0 +1,15 @@
+
+Array sorted with Insertion Sort in ascending order:
+
+M = [22,27,16,2,18,6]
+--> [2,27,16,22,18,6]
+--> [2,6,16,22,18,27]
+--> [2,6,16,22,18,27]
+--> [2,6,16,18,22,27]
+ 
+ Big O notation and time complexity:
+ Worst Case: n--> (n-1)--> (n-2) --> ...+1 = (n*(n+1))/2  --> O(n^2)
+ Avarage Case suggests the number is in the middle of the list: (n*(n+1))/4 --> O(n^2)
+ Best Case suggest the number is the first number of the list: n --> O(n)
+ 
+ After an ordered list creates, searching for number 18 would be covered in the average case.
